@@ -1,3 +1,4 @@
+# Code used to create mock case competition CSV's for Tennis Analytics Club 2023 Mock Case Competition
 library(tidyverse)
 # Load in all the data sets
 data10 <- read_csv("atp_matches_2010.csv")
